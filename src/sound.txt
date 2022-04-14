@@ -1,0 +1,10 @@
+ikiKeklik;ErkanOğur;1001;TürkHalkı;1996
+esrarlıGözler;MüslümGürses;1002;pop;1980
+yorgunDemokrat;AhmetKaya;1003;pop;1987
+antepinKalesine;ibrahimTatlıses;1004;türkhalkı;2009
+Eyşan;ToygarIşıklı;1005;caz;2009
+DerdimÇoktur;ErkanOgur;1006;TürkHalkı;1998
+GelBahtımın Karbeyazı;MüslümGürses;1007;pop;2004
+OyeOye;Pitbull;1008;Rap;2003
+TheTimeisNow;WWE;1009;Rap;1999
+YolunBasında;SertabErener;1010;pop;1999
